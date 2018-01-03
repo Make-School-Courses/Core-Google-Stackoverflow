@@ -276,7 +276,8 @@ using it to track your progress and work.
     - Notice the question may already exist! The site suggests existing questions. 
     - Explain your question as clearly and concisely as you can. 
       - Format your answer!
-    - Use tags. Follow the rules for tags. 
+    - Use tags. 
+      - Follow the rules for tags. 
 4. Look at new questions and try your best to provide an answer. 
   - Format your answer. 
   - Write a good answer. Keep it clear and concise. 
